@@ -979,7 +979,7 @@ export const Bot = (botProps: BotProps & { class?: string }) => {
               />
             )}
           </div>
-          ffffffffffffffffffffeeeeeeeeeeeeeeeeeeeeefffffffffff
+          <div>ffffffffffffffffffffeeeeeeeeeeeeeeeeeeeeefffffffffff1</div>
           {/* <Badge badgeBackgroundColor={props.badgeBackgroundColor} poweredByTextColor={props.poweredByTextColor} botContainer={botContainer} /> */}
         </div>
       </div>
